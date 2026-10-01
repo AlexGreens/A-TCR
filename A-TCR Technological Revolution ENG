@@ -163,13 +163,13 @@ Where:
 • M_QED — Standard Quantum Electrodynamics background amplitude.
 • ℏω — Energy of the incident X-ray laser photon.
 • E_res ≈ 2.069 keV (wavelength λ_res ≈ 5.992 Å) — Topological resonance energy.
-• Γ_top * ℏ ≈ (ℏ * c / R_core) * α² ≈ 0.014 eV — Natural topological resonance 
+• Γ_top * ℏ ≈ (ℏ * c / R_core) * α² ≈ 8.24 eV — Natural topological resonance 
   line width.
 
 • Conceptual Explanation:
   When the incident photon energy ℏω precisely matches the intrinsic topological 
   soliton energy E_res = 2.069 keV, a sharp, deterministic vacuum resonance occurs 
-  with a natural line width of 0.014 eV.
+  with a natural line width of 8.24 eV.
 
 --------------------------------------------------------------------------------
 5.6 DIFFERENTIAL CROSS-SECTION (EXPERIMENTAL OBSERVABLE)
@@ -211,7 +211,7 @@ Experimental Parameters for Verification:
 1. Facility: X-ray Free-Electron Laser (XFEL).
 2. Operating Wavelength: λ_res ≈ 5.992 Å (Photon energy E_res ≈ 2.069 keV).
 3. Observable Signal: A sharp localized resonance peak in the scattering cross-
-   section with magnitude ~ R_core² ≈ 1.625 * 10^-24 m², line width ΔE ≈ 0.014 eV, 
+   section with magnitude ~ R_core² ≈ 1.625 * 10^-24 m², line width ΔE ≈ 8.24 eV, 
    and angular dependence (1 + cos²θ).
 
 ================================================================================
