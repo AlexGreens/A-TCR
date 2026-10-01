@@ -30,7 +30,7 @@ Lifting the target configuration space onto the universal covering group Spin(4)
 By coupling the Faddeev rigidity constant to the fine-structure constant (e = √(4πα) ≈ 0.30286) and calibrating the fundamental vacuum field tension against the electron rest energy (Φ₀² ≈ 2.0692 keV), the framework derives exact falsifiable parameters for laboratory testing at X-ray Free-Electron Laser (XFEL) facilities:
 - Core Soliton Scale: Exact topological core radius R_core = ƛ_C / e ≈ 1.275 pm (yielding an effective geometric cross-section R_core² ≈ 1.625 × 10⁻²⁴ m²).
 - Resonant Energy Peak: Exact photon resonance at E_res ≈ 2.069 keV (λ_res ≈ 5.992 Å / ν_res ≈ 5.003 × 10¹⁷ Hz).
-- Resonance Linewidth: Ultra-narrow topological natural linewidth Γ_top · ℏ ≈ (ℏc / R_core) · α² ≈ 0.014 eV.
+- Resonance Linewidth: Ultra-narrow topological natural linewidth Γ_top · ℏ ≈ (ℏc / R_core) · α² ≈ 8.24 eV.
 - Scattering Profile: S-matrix transition amplitude M_fi(ℏω) and differential cross-section Δ(dσ/dΩ)_ATCR featuring a characteristic dipole angular dependence (1 + cos²θ) and a sharp Breit-Wigner resonance peak at E_res.
 
 This monograph provides a fully self-consistent, deterministic, and empirically falsifiable alternative to the probabilistic quantum paradigm, establishing a direct empirical channel between subatomic phase topology and real-world laser physics.
@@ -41,7 +41,7 @@ This monograph provides a fully self-consistent, deterministic, and empirically 
 * Measurement problem and wavefunction collapse: Eliminates observer mysticism. State jumps are explained as phase resonance (Phase-Locking) and phase channel bifurcation when exceeding the critical norm (max ||dΦ|| ≥ Φ_crit).
 * Non-locality paradox (quantum entanglement): Instantaneous connection is explained by the total nontrivial holonomy of the total space E and the topological self-closure of spatial threads (inverted charges with conservation of the sum of Chern classes).
 * Non-destructive phase control (Lead-Phase): Instead of brute-force intervention (heating, pressure, high-energy particle bombardment), A-TCR introduces the principle of restructuring matter via an anticipatory phase signal within the nonlinear self-assembly potential V(Φ).
-* Falsifiable Bridge to Real-World Physics: Provides explicit, parameter-free laboratory predictions (2.069 keV X-ray resonance peak with 0.014 eV linewidth) directly verifiable on modern XFEL light source infrastructure.
+* Falsifiable Bridge to Real-World Physics: Provides explicit, parameter-free laboratory predictions (2.069 keV X-ray resonance peak with 8.24 eV linewidth) directly verifiable on modern XFEL light source infrastructure.
 
 📖 Document Structure and Formalization
 * Sections 1–4: Rigorous exposition of postulates, the conservative master field equation ((⋆ d ⋆ d Φ) + (∂V / ∂Φ) = R_chrono), 3D Hopfion geometry, and phase-locking potential V_lock.
@@ -99,7 +99,7 @@ When referencing the concept or using materials, please cite the author:
 > ANSWER: 
 > A-TCR is directly testable on existing light source equipment. The theory provides exact, quantitative predictions with zero free parameters:
 > 1. Resonant photon energy E_res = 2.069 keV (λ_res ≈ 5.992 Å).
-> 2. Extremely narrow natural topological resonance width ΔE = Γ_top · ℏ ≈ 0.014 eV.
+> 2. Extremely narrow natural topological resonance width ΔE = Γ_top · ℏ ≈ 8.24 eV.
 > 3. Effective target cross-section Δ(dσ/dΩ)_ATCR scaled to R_core² ≈ 1.625 × 10⁻²⁴ m² with a (1 + cos²θ) dipole profile.
 > Direct irradiation of target vacuum areas using tuned soft X-ray Free-Electron Lasers (XFEL) will yield a sharp, deterministic resonance peak, serving as an unambiguous, binary experimental falsification test.
 
