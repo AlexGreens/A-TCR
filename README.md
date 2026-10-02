@@ -167,7 +167,7 @@ When referencing the concept or using materials, please cite the author:
 > ANSWER: 
 > The concept possesses a fully formulated mathematical framework fixed in the Set of Blocks (1–15) and Sections 1–7. It relies on the conservative master equation (⋆ d ⋆ d Φ) + (∂V / ∂Φ) = R_chrono, Cartan's exterior calculus (d² = 0), the Hodge star operator (⋆), topological invariants (winding number Q ∈ ℤ and Chern classes), Spin(4) covering group fermionization, and exact S-matrix scattering equations for XFEL verification. Metaphors serve for intuitive understanding, while the equations set strict, falsifiable mathematical boundaries.
 
-
+RUS DESCRIPTION
 
 🌌 Теория Асинхронной Топологической Хроно-Рекурсии (A-TCR)
 Детерминированная геометрико-фазовая концепция, объединяющая Общую Теорию Относительности и Квантовую Механику.
